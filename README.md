@@ -4,7 +4,7 @@
 A simple repository to store my algorithm training from various websites
 
 
-## API Reference
+## Code Index
 
 #### Leetcode
 
